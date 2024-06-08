@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ayushi Jethva</h1>
-<h3 align="center">I'm an iOS developer with a passion for providing high-quality and user-friendly solutions. For now I have hands-on experience designing and developing complex mobile apps using UIKit.</h3>
+<h3 align="center"> I'm an iOS developer passionate about creating high-quality, user-friendly solutions. With extensive hands-on experience in UIKit, I design and develop complex mobile apps for seamless and intuitive user experiences. Let's build something great together!</h3>
+
+<p align="left">
+📱 Proficient in Swift and Objective-C
+🎨 Strong focus on UI/UX design principles
+🛠 Skilled in integrating APIs and third-party libraries
+🚀 Experience with performance optimization and debugging
+📊 Committed to writing clean, maintainable code
+👥 Excellent team player with strong communication skills
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
