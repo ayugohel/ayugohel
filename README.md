@@ -1,7 +1,7 @@
-## Hi 👋, I'm Aayushi
+# Hi 👋, I'm Aayushi
 
 
-I'm an iOS developer with a passion for providing high-quality and user-friendly solutions. For now I have hands-on experience designing and developing complex mobile apps using UIKit.
+### I'm an iOS developer with a passion for providing high-quality and user-friendly solutions. For now I have hands-on experience designing and developing complex mobile apps using UIKit.
 <!--
 **ayugohel/ayugohel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
