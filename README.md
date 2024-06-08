@@ -2,12 +2,12 @@
 <h3 align="center"> I'm an iOS developer passionate about creating high-quality, user-friendly solutions. With extensive hands-on experience in UIKit, I design and develop complex mobile apps for seamless and intuitive user experiences. Let's build something great together!</h3>
 
 <p align="left">
-📱 Proficient in Swift and Objective-C
-🎨 Strong focus on UI/UX design principles
-🛠 Skilled in integrating APIs and third-party libraries
-🚀 Experience with performance optimization and debugging
-📊 Committed to writing clean, maintainable code
-👥 Excellent team player with strong communication skills
+📱 Proficient in Swift and Objective-C <br>
+🎨 Strong focus on UI/UX design principles <br>
+🛠 Skilled in integrating APIs and third-party libraries <br>
+🚀 Experience with performance optimization and debugging <br>
+📊 Committed to writing clean, maintainable code <br>
+👥 Excellent team player with strong communication skills <br>
 </p>
 
 <h3 align="left">Connect with me:</h3>
