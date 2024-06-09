@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ayushi Jethva</h1>
-<h3 align="center"> I'm an iOS developer passionate about creating high-quality, user-friendly solutions. With extensive hands-on experience in UIKit, I design and develop complex mobile apps for seamless and intuitive user experiences. Let's build something great together!</h3>
+<h1 align="center">Hi 👋, I'm Ayushi </h1>
+<h4 align="left"> I'm an iOS developer passionate about creating high-quality, user-friendly solutions. With extensive hands-on experience in UIKit, I design and develop complex mobile apps for seamless and intuitive user experiences. Let's build something great together!</h3>
 
 <p align="left">
 📱 Proficient in Swift, SwiftUI, Objective-C, and experienced in cross-platform development with Flutter <br>
